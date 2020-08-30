@@ -29,8 +29,8 @@
 //! ## License
 //! genpwd is distributed under the terms of both the MIT license and the Apache License (Version 2.0).
 //!
-//!See the [LICENSE-APACHE](https://github.com/obr-rs/genpwd/LICENSE-APACHE) and [LICENSE-MIT](https://github.com/obr-rs/genpwd/LICENSE-MIT) files in this repository for more information.
- 
+//!See the [LICENSE-APACHE](https://github.com/obr-rs/genpwd/blob/master/LICENSE-APACHE) and [LICENSE-MIT](https://github.com/obr-rs/genpwd/blob/master/LICENSE-MIT) files in this repository for more information.
+
 extern crate clap;
 
 mod config;
