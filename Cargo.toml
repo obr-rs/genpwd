@@ -3,7 +3,7 @@ name = "genpwd"
 version = "0.1.0"
 authors = ["Olaf Brozio"]
 edition = "2018"
-license = "MIT OR Apache-2.0 OR Eclipse Public License - v 2.0"
+license = "MIT OR Apache-2.0"
 description = """
 This program generates a randomized password from character classes. 
 Character classes are [a-z], [A-Z], [0-9] and special sign.
