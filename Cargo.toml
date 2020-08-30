@@ -11,7 +11,7 @@ Character classes are [a-z], [A-Z], [0-9] and special sign.
 repository = "https://github.com/obr-rs/genpwd"
 homepage = "https://github.com/obr-rs/genpwd"
 documentation = "https://docs.rs/0.1.0/genpwd"
-readme = "readme.md"
+readme = "README.md"
 keywords = ["password", "generator"]
 categories = ["command-line-utilities"]
 
