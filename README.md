@@ -30,4 +30,4 @@ z16N\6'8NkvyXK(<
 ## License
 genpwd is distributed under the terms of both the MIT license and the Apache License (Version 2.0).
 
-See the [LICENSE-APACHE](http://example.net/) and [LICENSE-MIT](http://example.net) files in this repository for more information.
+See the [LICENSE-APACHE](https://github.com/obr-rs/genpwd/blob/master/LICENSE-APACHE) and [LICENSE-MIT](https://github.com/obr-rs/genpwd/blob/master/LICENSE-MIT) files in this repository for more information.
