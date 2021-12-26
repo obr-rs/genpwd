@@ -48,7 +48,7 @@ fn get_arg_matches() -> ArgMatches<'static> {
                 .takes_value(true)
                 .value_name("value")
                 .default_value("2")
-                .help("Minimal occurrence of each character class [default: 2]"),
+                .help("Minimal occurrence of each character class"),
         )
         .arg(
             Arg::with_name("length")
@@ -57,7 +57,7 @@ fn get_arg_matches() -> ArgMatches<'static> {
                 .takes_value(true)
                 .value_name("value")
                 .default_value("12")
-                .help("Minimal length of password [minimum: 10] [default: 12]"),
+                .help("Minimal length of password [minimum: 10]"),
         )
         .get_matches()
 }
